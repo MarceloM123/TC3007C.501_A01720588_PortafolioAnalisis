@@ -1,8 +1,8 @@
 # TC3007C.501_A01720588_PortafolioAnalisis
 
-Este repositorio esta dedicado a las entregas individuales pertinentes al portafolio de análisis del curso TC3007C.
-Nombre: Marcelo Márquez Murillo
-Matrícula: A01720588
+Este repositorio esta dedicado a las entregas individuales pertinentes al portafolio de análisis del curso TC3007C.  
+Nombre: Marcelo Márquez Murillo  
+Matrícula: A01720588  
 
 ## Estructura de repositorio
 La carpeta raíz de este repositorio contiene los siguientes archivos y carpetas:
